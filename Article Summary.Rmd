@@ -22,7 +22,8 @@ Environmental variables including plot elevations, interstitial porewater salini
 Various statistical analyses were then performed including a redundancy analysis and a floristic cluster analysis,to assess multivariate relationships in plant species composition.
 
 ```{r}
-![optional caption text](figures/img.png)
+![Figure 1: Map of study sites. Source:Porter, C., et al. (2015)](Nichols_Assignment5/Figure 1.jpeg)
 
 ```
+
 
