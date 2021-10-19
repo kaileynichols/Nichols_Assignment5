@@ -15,7 +15,7 @@ Tidal wetlands are some of the most valuable coastal ecosystems globally as they
 
 ##Methods
 
-Eight study sites were selected to represent the Bay of Fundy Region, the Atlantic Coast, and the Carboniferous Lowlands of the Gulf of St. Lawrence/Northumberland Strait Region (Figure 1). These sites serve as reference sites for restoration projects in the region. Vegetation surveys were performed at each of the sites throughout July and August using the transect plot sampling method to maintain the same geographic location of the plots each year which spanned from the upland edge to the discrete toe of the slope. This included a point intercept method to determine species abundance and composition within the quadrats (25 grid squares, 20cm x 20cm), which confirmed the stability of the sites over time. 
+Eight study sites were selected to represent the Bay of Fundy Region, the Atlantic Coast, and the Carboniferous Lowlands of the Gulf of St. Lawrence/Northumberland Strait Region (Figure 1). These sites serve as reference sites for restoration projects in the region. Vegetation surveys were performed at each of the sites throughout July and August using the transect plot sampling method to maintain the same geographic location of the plots each year which spanned from the upland edge to the discrete toe of the slope. This involved a point intercept method to determine species abundance and composition within the quadrats (25 grid squares, 20cm x 20cm), which confirmed the stability of the sites over time. 
 
 Environmental variables including plot elevations, interstitial porewater salinity, and sediment cores were also assessed. Plot elevations were collected on all sample plots with a Trimble R8 GNSS RTK GPS surveying system (Figure 2). This survey data was used to analyze the elevations associated with tidal range, hydroperiod, inundation frequency, and mean inundation time. Interstitial porewater salinity was collected three times during low tide using a soil probe slipper in July, August, and September. These samples were taken on vegetation stations representative of tidal and elevation ranges of each sampled marsh and were manipulated to provide a single, mean salinity value for each location. Sediment cores were also collected to provide data on bulk density and loss of ignition (LOI) of organic material.
 
@@ -31,5 +31,9 @@ knitr::include_graphics("Figure 2.jpeg")
 ```
 
 ##Results and Conclusion
+Eighty-three vascular plants were identified across the study sites. The authors were able to determine plant species composition patterns, vegetation classification and environmental variables associated with the plant communities identified. This information gave rise to the proposal that there were seven different plant associations that were identified by conditions offered by salinity, inundation, and salinity gradients, creating distinctive vegetation zonation.
+
+By using quantitative methods to classify NS tidal wetlands, they concluded that the sites sampled during this study were representative of reference conditions for tidal marshes in the region as they are recognized as possessing stable vegetation zonation. This information will be able to inform future restoration projects by having an improved understanding of successional trajectories in the low to high marsh zones, to ensure that restoration projects are progressing as planned. With such information, there is potential to expand the current approach of comparing the study site to a single reference site, to adopting a multiple reference site approach. This has the potential to facilitate improved restoration, monitoring, and management of coastal wetlands in Nova Scotia. 
+
 
 
